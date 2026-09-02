@@ -5,18 +5,14 @@ int main() {
     int n;
     cin >> n;
  
-    int level = 0;
+    int last = 1;
     int sum = 0;
- 
-    while (true) {
-        level++;
-        sum += level;
- 
-        if (sum > n) {
-            cout << level - 1 << endl;
-            break;
-        }
- 
-        n -= sum;
+    int i=1;
+    while(last <= n){
+        last += i;
+        sum = last;
+         n -= sum;
+         i++;
     }
+    cout<<i-1<<endl;
 }
