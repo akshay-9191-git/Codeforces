@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+ 
+int main(){
+    int n,k,w;
+    cin>>k>>n>>w;
+    int x = k*((w*(w+1))/2);
+    if(x>n){
+    cout<<x-n;
+    }else{
+        cout<<"0";
+    }
+ 
+}
