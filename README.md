@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 10 |
+| 27 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (6)
@@ -36,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 
 ### brute force
 
