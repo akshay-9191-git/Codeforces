@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 12 |
+| 46 | 12 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [implementation](#implementation) (21)
 - [math](#math) (9)
 - [number theory](#number-theory) (3)
@@ -88,6 +88,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.cpp) |
