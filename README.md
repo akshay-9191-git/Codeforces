@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 12 |
+| 51 | 12 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (16)
+- [greedy](#greedy) (17)
 - [implementation](#implementation) (22)
 - [math](#math) (10)
 - [number theory](#number-theory) (3)
@@ -103,6 +103,7 @@
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
+| 2274B | [Prefix](https://codeforces.com/contest/2274/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2274/B%20-%20Prefix/solution.cpp) |
 
 ### implementation
 
