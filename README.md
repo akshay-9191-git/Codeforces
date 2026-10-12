@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 12 |
+| 50 | 12 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (21)
-- [math](#math) (9)
+- [implementation](#implementation) (22)
+- [math](#math) (10)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
 - [strings](#strings) (10)
@@ -129,6 +129,7 @@
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
 
 ### math
 
@@ -143,6 +144,7 @@
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/akshay-9191-git/Codeforces/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
 
 ### number theory
 
