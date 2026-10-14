@@ -20,7 +20,8 @@ void solve() {
         ans[arr[l]]++;
         count += ans[arr[i]];
     }
-    cout<<count<<endl;
+    cout<<count<<"
+";
 }
  
 int main() {
